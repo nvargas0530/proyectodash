@@ -1,0 +1,6 @@
+# requirements.txt
+dash
+plotly
+pandas
+numpy
+gunicorn
